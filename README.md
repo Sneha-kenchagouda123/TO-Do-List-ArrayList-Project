@@ -1,5 +1,5 @@
 # TO-Do List ArrayList Project
- Project Title: To-Do List Application using Java ArrayList
+ Project Title: To-Do List Application using Java ArrayList<br>
 **Key Features**
 Add a Task
 Allow users to add a task to their to-do list.
